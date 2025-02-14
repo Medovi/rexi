@@ -1,0 +1,4 @@
+spec: .gear/rexi.spec
+
+tar: v@version@:.
+diff: v@version@:. . exclude=.gear/**
